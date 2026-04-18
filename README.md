@@ -1,7 +1,6 @@
 
 ## Description 
-
-The **Libft** project is the foundational assignment of the 42 Common Core. Its primary goal is to recreate a custom C standard library containing essential functions that will be used in all future C projects within the curriculum. By reimplementing standard functions from `libc`, this project provides a deep understanding of memory management, string manipulation, and pointers.
+This project aims to re-create standard libraries in C
 
 
 ## Instructions
