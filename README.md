@@ -1,6 +1,6 @@
 
 ## Description 
-This project aims to re-create standard libraries in C
+This project aims to re-create standard library in C
 
 
 ## Instructions
